@@ -1,0 +1,6 @@
+{
+    "name": "toxpic",
+    "scripts": {
+        "test": "jest"
+    }
+}
